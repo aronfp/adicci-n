@@ -1,0 +1,13 @@
+#video {
+    height: 500px;
+    width: 600px;
+}
+
+#centro {
+    justify-content: center; 
+    text-align: center;
+}
+
+#body {
+    background-color: darkgray;
+}
